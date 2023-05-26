@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:animated_app_development_with_rive_and_flutter/screens/onboding/onboarding_screen.dart';
+import 'package:animated_app_development_with_rive_and_flutter/screens/onboarding/onboarding_screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -11,6 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      // debugShowCheckedModeBanner: false,
       title: 'The Flutter Way',
       theme: ThemeData(
         scaffoldBackgroundColor: Color(0xFFEEF1F8),
