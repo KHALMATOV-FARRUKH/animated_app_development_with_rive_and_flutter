@@ -1,2 +1,3 @@
 # animated_app_development_with_rive_and_flutter
 
+![animated_app_development_with_rive_and_flutter](https://github.com/KHALMATOV-FARRUKH/animated_app_development_with_rive_and_flutter/assets/115084566/ed7d19f2-8da0-4019-8513-c5042aedb0a7)
